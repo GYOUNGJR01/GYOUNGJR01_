@@ -6,8 +6,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gary%20Young, Jr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garyyoungjr/)](https://www.linkedin.com/in/garyyoungjr/)
-[![Medium Badge](https://img.shields.io/badge/Gary%20Young, Jr.-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gary.junior.young)](https://www.medium.com/@gary.junior.young)
+[![Linkedin Badge](https://img.shields.io/badge/-Gary%20Young,Jr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garyyoungjr/)](https://www.linkedin.com/in/garyyoungjr/)
+[![Medium Badge](https://img.shields.io/badge/Gary%20Young,Jr.-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gary.junior.young)](https://www.medium.com/@gary.junior.young)
 [![Gmail Badge](https://img.shields.io/badge/gary.junior.young@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gary.junior.young.com)](mailto:gary.junior.young.com)
 
 ## ⚡ Technologies
